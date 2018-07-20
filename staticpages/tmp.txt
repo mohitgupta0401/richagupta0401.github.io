@@ -1,0 +1,52 @@
+<p><a name="Why">Why VLSI?</a>
+<br>If you are into electronic/electrical engineering by choice then VLSI must fascinate you, as it offers application of physics, chemistry, mathematics, electronics, and programming-skills in your work.  Also the semiconductor industry rewards the talents with high pay and provides the opportunities across the depth and breadth of technology to ascend the career ladder.
+<br>VLSI industry is cynical, but drives the economy. You also get an opportunity to work on the cutting edge technology. In short it's exciting!
+<br>
+<br><a name="">What is the future of VLSI?</a>
+<br>There is an ever increasing amount of semiconductor technology in devices the world depends on for working, communicating, manufacturing, treating illness, and countless other applications. Semiconductor industry will continue to advance in providing solutions for embryonic smart-electronic products for self-driving or driverless cars, smart city infrastructure, Internet of Things (wearables, smart-home products). These products will require essential competencies in manufacturing smart and durable electronic systems, advanced packaging materials, and packaging technology for extreme environmental and high performance conditions.  The latest technological developments in the microelectronics are Finfet, Extreme Ultraviolet Lithography and Multiple Patterning techniques.
+<br>The Semiconductor Industry will continue to serve as a driver, enabler and indicator of technological progress.
+<br>
+<br><a name="">Why do I need training, why VLSI industry is reluctant to hire a fresher?</a>
+<br>Training expenses in semiconductor industry are more when compared to software industry due to higher cost of the required tools. Hence the companies expect students to be prepared beforehand on relevant skill-set, like basics and tools (Cadence Virtuoso, Encounter, Spice, Verilog, VHDL).
+<br>Graduates, Post-graduates looking for VLSI jobs don't have required knowledge due the lack of college infrastructure, inadequate VLSI expertise in the teaching staff, gap in the industry needs and academics.
+<br>
+<br><a name="">How are the salaries in VLSI?</a>
+<br>Entry level salaries in semiconductor domain are at lower side but, exponentially increase with the work experience. In the long run, as you build your career with continuous learning, skill development, passion, commitment, perseverance and working through the opportunities, you will be duly rewarded.
+<br>The salaries then are relatively better than software jobs in India.
+<br>
+<br><a name="">Why should I choose Kanada Technologies (KT)?</a>
+<br>KT as a training institute differentiates itself in many ways from the rest.
+<br>Mentors: Our mentors are semiconductor industry experts having worked extensively in different domains like Analog and Mixed signal, Memories, Standard Cell Libraries, CPU verification, STA and with varied experience in Circuit Design, Layout, Physical Design, Verilog modeling, FPGA implementation using VHDL/Verilog, Low Power Design. 
+<br>Tools: We enable you to implement the projects using the industry standard tools which will help you increase the weightage of your resume. 
+<br>Fees: The fees charged by KT is relatively lot lesser than other training institutes. 
+<br>Weekend classes: As the training is conducted on weekends, final-year, pre-final-year students, working professionals can attend this course without any need to dedicatedly spend few months on VLSI training.
+<br>Check out the recommendations and Testimonials. 
+<br>
+<br><a name="">How does the course help me?</a>
+<br>This course gives an insight into VLSI design flow of current industry. The modules, assignments and projects designed in the course mimic the industry level training that a fresh candidate gets in any company. This is a potential course to make the resumes get the required attention while applying for VLSI jobs. 
+<br>Check out the Course details here. 
+<br>
+<br><a name="">What is the process of the classes conducted?</a>
+<br>Eligibility: Pre final, Final year, Passed-out BE/M.Tech students from Electronics/Electrical engineering, Passed-out Diploma students from Electronics, Working software professionals with BE/Mtech in Electronics/Electrical and are planning to switch to semiconductor domain.
+<br>Class timing and hours: Theory and Practical sessions are conducted on Saturdays and Sundays from morning 10am to 5pm. An average  of 6 hrs. per day. The total duration of the course would be 30 weekend classes totaling of 200hrs.
+<br>Labs & Theory: The course includes 30% of theory with 70% of practical. We supplement the teaching with presentations, text-books, video lectures. The students can have a copy of study material for their future reference.
+<br>Assignments: Students are required to complete the assignments given in the classes on regular basis.
+<br>Mini Projects: We mentor student to implement VLSI projects like ASIC library design, Memory Design, Microprocessor design during the course.
+<br>Weekday Lab access: Students are allowed to access the labs on weekdays provided there is no conflict with the regular labs.
+<br>Certification: Course completion certificate with the details of topics covered and project implemented will be awarded on successful completion of the course.
+<br>
+<br><a name="">Where is the course conducted?</a>
+<br>The Layout Design course is conducted in RNS Institute of Technology, Dr.Vishnuvardhan Road, Rajarajeshwarinagar, Channasandra, Bengaluru, Karnataka 560098.
+<br>
+<br><a name="">Do you offer placement assistance?</a>
+<br>Yes. The assistance includes a combination of career counseling and skills assessment, along with guidance on writing a resume, drafting a cover letter and filling out a job application. 
+<br>We also recommend you to appropriate job openings within our network of colleagues, friends and HRs, in the form of forwarding the resumes or personally providing with a letter of recognition in case needed.
+<br>50 of our students have been placed in core VLSI companies from 2012 to 2017. 
+<br>More details on  Placement.
+<br>
+<br><a name="">Is there any support after completion of the course?</a>
+<br>The alumnus of the institute is always free to contact, get any kind of technical support, guidance or recommendation from the institute.
+<br>
+<br><a name="">Do you conduct VLSI Workshops or Faculty Development Programs?</a>
+<br>Yes, we do. We conduct weekend workshops at the college campus for the students and teaching faculty. 
+<br>Read more on Workshop here.</p>
